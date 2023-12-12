@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**favouritemary/favouritemary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio. My name is Mary and I believe there is sense in numbers. I love to collaborate with experience data professionals to help businesses make profitablle informed decision.
+I have expetrience with developing and deploying machine learning projects, data mining, exploratory data analysis, data visualisation, statistics, and many others.
 
-Here are some ideas to get you started:
+### 💬 Ask me about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming with:
+  - Python
+  - SQL
+  - NoSQL
+* Multivariate Statistics with R
+* Machine Learning 
+* Data Visualisation
+* Data Mining
+* Data Analysis
+* My goals and aspirations
+
+### 📫 You can reach me on:
+You can find me on:
+
+* [LinkedIn](https://www.linkedin.com/in/fmary-omotosho/)
+* [Email](omotoshofmary@gmail.com)
