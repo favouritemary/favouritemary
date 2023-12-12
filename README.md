@@ -7,12 +7,17 @@ I have expetrience with developing and deploying machine learning projects, data
 
 * Programming with:
   - Python
-  - SQL
+  - SQL: [Sales Analysis for a Brewery Company](https://github.com/favouritemary/Sales-Analysis-for-a-Brewery-Company/blob/main/Breweries%20data%20analysis)
   - NoSQL
 * Multivariate Statistics with R
-* Machine Learning 
-* Data Visualisation
-* Data Mining
+* Machine Learning
+  - Supervsied machine learning
+  - Unsupervised machine learning: [Analysis of Customer Purchasing Behaviour using K-Means Clustering](https://github.com/favouritemary/Analysis-of-Customer-Purchasing-Behaviour-using-K-Means-Clustering)
+* Data Visualisation with Power BI
+* Data Mining with
+  - Rapid Miner
+  - SPSS
+  - WEKA
 * Data Analysis
 * My goals and aspirations
 
