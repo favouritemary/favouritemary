@@ -17,7 +17,7 @@ I have expetrience with developing and deploying machine learning projects, data
   - Supervsied machine learning: [Depth of Anaesthesia design](https://github.com/favouritemary/Depth-of-Anaesthesia-design/tree/main)
   - Unsupervised machine learning: [Analysis of Customer Purchasing Behaviour using K-Means Clustering](https://github.com/favouritemary/Analysis-of-Customer-Purchasing-Behaviour-using-K-Means-Clustering)
 * Data Visualisation with Power BI:
-  - [SPRocket Central Project](https://github.com/favouritemary/Sprocket-Central-Project/blob/main/Sprocket%20central%20project.pdf)
+  - [SPRocket Central Project](https://github.com/favouritemary/Sprocket-Central-Project)
   - [SPU Foodbank Analysis](https://github.com/favouritemary/SPU-Food-Analysis)
 * Data Mining with
   - Rapid Miner
