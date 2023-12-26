@@ -10,14 +10,13 @@ I have expetrience with developing and deploying machine learning projects, data
     * [A simple appointment record](https://github.com/favouritemary/A-simple-appointment-record/blob/main/A%20simple%20appointment%20record.ipynb)
     * [Age Program](https://github.com/favouritemary/Age-program)
     * [Password Validation](https://github.com/favouritemary/Password-Validation)
-      
   - SQL: [Sales Analysis for a Brewery Company](https://github.com/favouritemary/Sales-Analysis-for-a-Brewery-Company/blob/main/Breweries%20data%20analysis)
   - NoSQL
 * Multivariate Statistics with R
 * Machine Learning
   - Supervsied machine learning: [Depth of Anaesthesia design](https://github.com/favouritemary/Depth-of-Anaesthesia-design/tree/main)
   - Unsupervised machine learning: [Analysis of Customer Purchasing Behaviour using K-Means Clustering](https://github.com/favouritemary/Analysis-of-Customer-Purchasing-Behaviour-using-K-Means-Clustering)
-* Data Visualisation with Power BI
+* Data Visualisation with Power BI: [SPRocket Central Project](https://github.com/favouritemary/Sprocket-Central-Project/blob/main/Sprocket%20central%20project.pdf)
 * Data Mining with
   - Rapid Miner
   - SPSS
