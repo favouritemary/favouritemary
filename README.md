@@ -1,7 +1,13 @@
 # Hi there 👋
 
-Welcome to my portfolio. My name is Mary and I believe there is sense in numbers. I love to collaborate with experienced data professionals to help businesses make profitablle informed decision.
-I have expetrience with developing and deploying machine learning projects, data mining, exploratory data analysis, data visualisation, statistics, and many others.
+Welcome to my portfolio. I am a seasoned and driven Data Science professional with a Master's degree in Data Science, distinguished for academic excellence. With a solid foundation in customer service within financial and telecommunication sectors, coupled with a dynamic internship in Regional Development Australia, I have a unique blend of skills.
+
+With proven professional and personal projects, I am versed in data collection, cleansing, analysis, feature engineering, modelling, visualisation and detailed presentation utilizing industry standard tools such as SQL, Python, Power BI, Excel and PowerPoint.
+
+My deep commitment to continuous learning and adaptability drives me to stay abreast of emerging trends and technologies ion the data landscape.
+
+Use the links below to view some of my outstanding projects. You can also check out my [medium page](https://medium.com/@Temaydat/) where I constantly share my knowledge with the world.
+
 
 ## 💬 Ask me about
 
