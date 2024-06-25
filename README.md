@@ -1,12 +1,12 @@
 # Hi there 👋
 
-Welcome to my portfolio. I am a seasoned and driven Data Science professional with a Master's degree in Data Science, distinguished for academic excellence. With a solid foundation in customer service within financial and telecommunication sectors, coupled with a dynamic internship in Regional Development Australia, I have a unique blend of skills.
+Welcome to my portfolio. I am a dedicated and driven Data Science professional with a Master's degree in Data Science, distinguished for academic excellence. My experience spans customer service roles in the financial and telecommunication sectors, as well as a dynamic internship with Regional Development Australia. This diverse background equips me with a unique blend of skills in data analysis, predictive analyt, and customer service.
 
 With proven professional and personal projects, I am versed in data collection, cleansing, analysis, feature engineering, modelling, visualisation and detailed presentation utilizing industry standard tools such as SQL, Python, Power BI, Excel and PowerPoint.
 
 My deep commitment to continuous learning and adaptability drives me to stay abreast of emerging trends and technologies ion the data landscape.
 
-Use the links below to view some of my outstanding projects. You can also check out my [medium page](https://medium.com/@Temaydat/) where I constantly share my knowledge with the world.
+Use the links below to view some of my outstanding projects. 
 
 
 ## 💬 Ask me about
