@@ -13,7 +13,7 @@ Use the links below to view some of my outstanding projects.
 
 * Programming with:
   - Python
-    * [A simple appointment record](https://github.com/favouritemary/A-simple-appointment-record/blob/main/A%20simple%20appointment%20record.ipynb)
+    * [A simple appointment record](https://github.com/favouritemary/A-simple-appointment-record/blob/main/A%20simple%20appointment%20record.ipynb) designed to enable users to create and display their appointment records, search for a specific appointment using either letters or numbers, and tally appointments by date or priority
     * [Age Program](https://github.com/favouritemary/Age-program)
     * [Password Validation](https://github.com/favouritemary/Password-Validation)
   - SQL: [Sales Analysis for a Brewery Company](https://github.com/favouritemary/Sales-Analysis-for-a-Brewery-Company/blob/main/Breweries%20data%20analysis)
