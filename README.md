@@ -13,10 +13,12 @@ Use the links below to view some of my outstanding projects.
 
 * Programming with:
   - Python
-    * [A simple appointment record](https://github.com/favouritemary/A-simple-appointment-record/blob/main/A%20simple%20appointment%20record.ipynb) designed to enable users to create and display their appointment records, search for a specific appointment using either letters or numbers, and tally appointments by date or priority
+    * [A simple appointment record](https://github.com/favouritemary/A-simple-appointment-record/blob/main/A%20simple%20appointment%20record.ipynb) was designed to enable users to create and display their appointment records, search for a specific appointment using either letters or numbers, and tally appointments by date or priority.
     * [Age Program](https://github.com/favouritemary/Age-program) designed to calculate age in years, months, days, hours, minutes and seconds from the date of birth.
-    * [Password Validation](https://github.com/favouritemary/Password-Validation)
-  - SQL: [Sales Analysis for a Brewery Company](https://github.com/favouritemary/Sales-Analysis-for-a-Brewery-Company/blob/main/Breweries%20data%20analysis)
+    * [Password Validation](https://github.com/favouritemary/Password-Validation) was designed to validate password following specific instructions. Correct passwords are validated with True while incorrect passwords are validated with False.
+  - SQL:
+    * [Sales Analysis for International Breweries](https://github.com/favouritemary/Sales-Analysis-for-a-Brewery-Company/blob/main/README.md) showed a comprehensive analysis of the profit and brand performance of International Breweries over a three-year period. The analysis is aimed at aiding strategic decision-making to maximize profit and minimize losses. The data includes records from both anglophone and francophone territories, providing insights into regional performance and consumer preferences.
+    * [BuyBuy Data Analysis Report](https://github.com/favouritemary/BuyBuy-Data-Analysis-Report/blob/main/README.md) showed the evaluation of BuyBuy's performance in terms of profitability over time, across different regions, and among various product categories.
   - NoSQL
 * Multivariate Statistics with R
 * Machine Learning
