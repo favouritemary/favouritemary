@@ -27,6 +27,7 @@ Use the links below to view some of my outstanding projects.
 * Data Visualisation with Power BI:
   - [SPRocket Central Project](https://github.com/favouritemary/Sprocket-Central-Project)
   - [SPU Foodbank Analysis](https://github.com/favouritemary/SPU-Food-Analysis)
+  - [Spotify Music Analysis](https://github.com/favouritemary/Spotify-Music-Analysis)
 * Data Mining with
   - Rapid Miner
   - SPSS
