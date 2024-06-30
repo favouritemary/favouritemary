@@ -24,7 +24,7 @@ Use the links below to view some of my outstanding projects.
 * Machine Learning
   - Supervsied machine learning: [Depth of Anaesthesia design](https://github.com/favouritemary/Depth-of-Anaesthesia-design/tree/main)
   - Unsupervised machine learning: [Analysis of Customer Purchasing Behaviour using K-Means Clustering](https://github.com/favouritemary/Analysis-of-Customer-Purchasing-Behaviour-using-K-Means-Clustering)
-* Data Visualisation with Power BI:
+* Data Visualisation with Power BI and Excel:
   - [SPRocket Central Project](https://github.com/favouritemary/Sprocket-Central-Project)
   - [SPU Foodbank Analysis](https://github.com/favouritemary/SPU-Food-Analysis)
   - [Spotify Music Analysis](https://github.com/favouritemary/Spotify-Music-Analysis)
